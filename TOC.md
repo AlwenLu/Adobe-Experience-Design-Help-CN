@@ -1,4 +1,7 @@
-- 关于我们
-    - [关于极客学院](about-us.md)
-    - [关于极客学院 Wiki](about-wiki.md)
-- [联系我们](contact.md)
+- [Getting started 开始使用](Getting-started.md)
+- [Designing artwork and screens 设计](designing-artwork-and-screens.md)
+- [Manage objects 管理对象](manage-objects.md)
+- [Importing and exporting assets 导入和导出资源](importing-and-exporting-assets.md)
+- [Prototype 原型](prototype.md)
+- [Preview 预览](preview.md)
+- [Share 共享](share.md)
